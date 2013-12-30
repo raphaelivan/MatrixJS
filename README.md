@@ -10,12 +10,16 @@ Exemple:
 var mtx = new Matrix(10, 20); 
 
 
+###acessing elements from matrix
+var element = mtx[3][5];
+
+
 ###add an element to a specific position
 mtx.addElement("element", {row:3, col:10});
 
 
-###get an element position
-var position = mtx.getElement("element");
+###get a position from an element
+var position = mtx.getPosition("element");
 
 
 ###remove an element from a position row:3, col:10
@@ -34,7 +38,7 @@ var randomEmptyPosition = mtx.getRandomPosition(true);
 var centerPosition = mtx.getCenterPosition();
 
 
-###Iterate matrix
+###Iterate matrix. use a callback function to receive current row and current col.
 mtx.forEach(function(row, col) { console.log("row:"+row+", col:"+col) });
 
 ##Fork the project and HELP US to improve this lib.
