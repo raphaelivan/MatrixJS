@@ -34,7 +34,7 @@ function Matrix(rows, cols) {
             return elementsPosition[element].position;
         }
 
-        matrix.getMiddlePosition = function() {
+        matrix.getCenterPosition = function() {
             return {
                 row:Math.floor(matrix.rows/2), 
                 col:Math.floor(matrix.cols/2)
