@@ -1,7 +1,7 @@
 MatrixJS
 ========
 
-MatrixJS is a lib for bi-dimensional arrays for Javascript.
+MatrixJS is framework to easily manipulate multidimensional arrays in javascript
 (Future suport multi-dimensional)
 
 Exemple:
