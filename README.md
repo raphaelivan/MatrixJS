@@ -1,8 +1,8 @@
 MatrixJS
 ========
 
-MatrixJS is framework to easily manipulate multidimensional arrays in javascript
-(Future suport multi-dimensional)
+MatrixJS is framework to easily manipulate bi-dimensional(2D) arrays in javascript
+(Future suport multidimensional)
 
 Exemple:
 
