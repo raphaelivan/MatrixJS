@@ -1,0 +1,26 @@
+{
+  "name": "MatrixJS",
+  "version": "0.0.1",
+  "description": "MatrixJS is framework to easily manipulate bi-dimensional(2D) arrays in javascript (Future suport multidimensional)",
+  "main": "matrix.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diRex/MatrixJS.git"
+  },
+  "keywords": [
+    "matrix",
+    "multidimensional",
+    "2D",
+    "table",
+    "array"
+  ],
+  "author": "diRex - (http://divecch.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diRex/MatrixJS/issues"
+  },
+  "homepage": "https://github.com/diRex/MatrixJS"
+}
